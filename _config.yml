@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Minseo's Clog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Minseo Cho"
+description              : "Minseo's Clog: An exploration of computer science studies and coding projects."
 url                      : "https://skyminseo.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Minseo Cho"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "South Korea, Singapore"
   email            :
   links:
     - label: "Email"
