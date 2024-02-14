@@ -1,3 +1,8 @@
+---
+layout: single
+title: "Australian Rain Prediction Model"
+---
+
 ```python
 import torch
 import torch.nn as nn
