@@ -659,7 +659,7 @@ df[numerical_A].hist(numerical_A, rwidth=0.7, figsize=(15, 10))
 
 
     
-![png1](_posts/images/australian_rain_prediction/output_16_1.png)
+![png](/images/australian_rain_prediction/output_16_1.png)
     
 
 
