@@ -660,7 +660,6 @@ df[numerical_A].hist(numerical_A, rwidth=0.7, figsize=(15, 10))
 
     
 ![png](output_16_1.png)
-Format: ![Alt Text](url)
     
 
 
