@@ -697,7 +697,7 @@ df[numerical_B].hist(numerical_B, rwidth=0.7, figsize=(20, 15))
 
 
     
-![png](output_19_1.png)
+![png](./images/australian_rain_prediction/output_19_1.png)
     
 
 
@@ -1320,6 +1320,6 @@ plt.show()
 
 
     
-![png](output_42_0.png)
+![png](./images/australian_rain_prediction/output_42_0.png)
     
 
