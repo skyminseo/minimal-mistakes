@@ -659,7 +659,7 @@ df[numerical_A].hist(numerical_A, rwidth=0.7, figsize=(15, 10))
 
 
     
-![png](./images/australian_rain_prediction/output_16_1.png){: width="50%" height="50%"0}{: .center}
+![png](./images/australian_rain_prediction/output_16_1.png)
     
 
 
@@ -697,7 +697,7 @@ df[numerical_B].hist(numerical_B, rwidth=0.7, figsize=(20, 15))
 
 
     
-![png](./images/australian_rain_prediction/output_19_1.png){: width="50%" height="50%"0}{: .center}
+![png](./images/australian_rain_prediction/output_19_1.png)
     
 
 
@@ -1320,6 +1320,6 @@ plt.show()
 
 
     
-![png](./images/australian_rain_prediction/output_42_0.png){: width="50%" height="50%"0}{: .center}
+![png](./images/australian_rain_prediction/output_42_0.png)
     
 
