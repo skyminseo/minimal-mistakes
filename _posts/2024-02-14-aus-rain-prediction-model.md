@@ -12,7 +12,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 ```
 
-# 1. Import the Dataset
+## 1. Import the Dataset
 
 
 ```python
@@ -336,7 +336,7 @@ df
 
 
 
-# 2. Analyse the Dataset
+## 2. Analyse the Dataset
 
 
 ```python
@@ -628,7 +628,7 @@ missing_values.sort_values(by ='missing_values(%)' , ascending=False)
 
 
 
-# 3. Preprocessing the Data
+## 3. Preprocessing the Data
 
 ### 3.1 Discard unnecessary data
 
@@ -1088,7 +1088,7 @@ df.info()
     memory usage: 19.3 MB
     
 
-# 4. Data Preparation
+## 4. Data Preparation
 
 
 ```python
@@ -1264,7 +1264,7 @@ for epoch in range(num_epochs):
     Epoch [100/100], Loss: 0.0213, Val Loss: 0.3575, Val Accuracy: 83.40%, Test Accuracy: 85.98%
     
 
-# 5. Evaluation
+## 5. Evaluation
 
 
 ```python
